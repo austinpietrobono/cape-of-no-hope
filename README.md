@@ -8,7 +8,9 @@ A single static page with no build step. Guests watch the intro, answer the summ
 
 | File | What it is |
 | --- | --- |
-| `index.html` | The whole page, with fonts, stamps, music and logic built in |
+| `index.html` | The page: words, layout, music and logic. Small enough to edit on GitHub |
+| `assets.js` | Images used by the page: stamps, postcard logo, skull frames |
+| `fonts.css` | Fonts used by the page |
 | `intro.mp4` | Intro video |
 | `poster.jpg` | First frame, shown while the video loads |
 | `logo-black-bg.svg`, `logo-red-bg.svg` | Logos |
